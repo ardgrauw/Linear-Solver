@@ -1,0 +1,7 @@
+﻿  Model.cpp
+c:\users\arnde\documents\visual studio 2017\projects\solverlibrary\solverlibrary\model.cpp(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\arnde\documents\visual studio 2017\projects\solverlibrary\solverlibrary\model.h(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\arnde\documents\visual studio 2017\projects\solverlibrary\solverlibrary\model.h(13): error C3646: 'model': unknown override specifier
+c:\users\arnde\documents\visual studio 2017\projects\solverlibrary\solverlibrary\model.h(13): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\arnde\documents\visual studio 2017\projects\solverlibrary\solverlibrary\model.cpp(11): error C2440: '=': cannot convert from 'OsiCbcSolverInterface *' to 'OsiClpSolverInterface *'
+  c:\users\arnde\documents\visual studio 2017\projects\solverlibrary\solverlibrary\model.cpp(11): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
