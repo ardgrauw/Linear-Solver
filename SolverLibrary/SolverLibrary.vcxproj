@@ -120,9 +120,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="LinearVariable.cpp" />
     <ClCompile Include="Model.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="LinearVariable.h" />
     <ClInclude Include="Model.h" />
   </ItemGroup>
   <ItemGroup>
